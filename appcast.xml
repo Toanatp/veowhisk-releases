@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>VeoWhisk Updates</title>
+    <link>https://github.com/Toanatp/veowhisk-releases</link>
+    <description>Feed thông báo phiên bản mới cho ứng dụng VeoWhisk.</description>
+
+    <item>
+      <title>Veo Whisk 9.9.9 (test)</title>
+      <pubDate>Sun, 09 Nov 2025 02:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/v9.9.9-test</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://example.com/VeoWhisk-9.9.9.exe"
+        sparkle:version="9.9.9"
+        sparkle:shortVersionString="9.9.9"
+        sparkle:osBuild="99999"
+        sparkle:sha256="FAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKE"
+        sparkle:edSignature="FAKE-ED25519-SIGNATURE-BASE64="
+        length="123456789"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
