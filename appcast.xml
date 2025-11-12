@@ -6,17 +6,17 @@
     <description>Feed thông báo phiên bản mới cho ứng dụng VeoWhisk.</description>
 
     <item>
-      <title>Veo Whisk 9.9.9 (test)</title>
+      <title>Veo Whisk 1.2.5 (test)</title>
       <pubDate>Sun, 09 Nov 2025 02:00:00 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/v9.9.9-test</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/1.2.5</sparkle:releaseNotesLink>
       <enclosure
-        url="https://example.com/VeoWhisk-9.9.9.exe"
-        sparkle:version="9.9.9"
-        sparkle:shortVersionString="9.9.9"
-        sparkle:osBuild="99999"
-        sparkle:sha256="FAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKE"
-        sparkle:edSignature="FAKE-ED25519-SIGNATURE-BASE64="
-        length="123456789"
+        url="https://github.com/Toanatp/veowhisk-releases/releases/download/1.2.5/veowwhisk_update.vwu"
+        sparkle:version="1.2.5"
+        sparkle:shortVersionString="1.2.5"
+        sparkle:osBuild="80ccad5"
+        sparkle:sha256=""
+        sparkle:edSignature=""
+        length="861"
         type="application/octet-stream" />
     </item>
   </channel>
