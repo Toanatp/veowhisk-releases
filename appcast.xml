@@ -14,9 +14,9 @@
         sparkle:version="1.2.5"
         sparkle:shortVersionString="1.2.5"
         sparkle:osBuild="80ccad5"
-        sparkle:sha256="sha256:6b65b6cd4c5ab65c033754ee3a91140160451a2571f565aa5bbbfc10ec06c39e"
-        sparkle:edSignature="fwk+i+ZdEy6ehYOLaXUT76lQxiyQlS4LprFpIMpisnKNvkEZ3cO9BK+yvQDSf2LdXR34spFzTP3kfUTl1L6CDA=="
-        length="861"
+        sparkle:sha256="sha256:84e3f5e9ccc30af7a28b8a8745ddacbe2d6c6e8bbf1f3ff9a1de9452192dd5e4"
+        sparkle:edSignature="Rh14vgN2NyG3oYFA1yXRkkqhYzSDR/MbwaMnTf749BJ4q07K87RLaYxIvEm4Wbki7gnjGBBH/5wf9zLr91TeDg=="
+        length="825"
         type="application/octet-stream" />
     </item>
   </channel>
