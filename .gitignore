@@ -1,0 +1,5 @@
+veowwhisk_file_update/
+venv/
+*.py
+*.txt
+*.md
