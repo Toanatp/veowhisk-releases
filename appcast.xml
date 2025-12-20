@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>VeoWhisk Updates</title>
+    <title>VeoWhisk Updates 2.0.0</title>
     <link>https://github.com/Toanatp/veowhisk-releases</link>
-    <description>Test lại tính năng cập nhật trước khi xuất bản</description>
+    <description>Khắc phục lỗi recaptcha</description>
 
     <item>
-      <title>Veo Whisk 1.2.8</title>
-      <pubDate>Wed, 10 Dec 2025 13:52:29 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/1.2.8</sparkle:releaseNotesLink>
+      <title>Veo Whisk 2.0.0</title>
+      <pubDate>Sat, 20 Dec 2025 08:34:35 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/2.0.0</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/Toanatp/veowhisk-releases/releases/download/1.2.8/veowwhisk_update.vwu"
-        sparkle:version="1.2.8"
-        sparkle:shortVersionString="1.2.8"
+        url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.0/veowwhisk_update.vwu"
+        sparkle:version="2.0.0"
+        sparkle:shortVersionString="2.0.0"
         sparkle:osBuild="80ccad5"
-        sparkle:sha256="81DDE0FA6C4D0B0BB4A1CE3F121C82FB3558335B06CE659F62C67A3E3C496B73"
-        sparkle:edSignature="kxLMxTzUBTsp4SlD7exDl7JwOLgInCFCnSKg6OgZTz+JzOIcri1uDOOXloK/G6x1QLkzXN29CD3+kT+RHbYlDw=="
-        length="46284575"
+        sparkle:sha256="7BAE1D26CD470DA924415BB04B3225AEA2C326F72B166A733B58F90404013300"
+        sparkle:edSignature="2+hOtdPZ0MfJmFnQ8tjaQ9L5WyvwY6RAh9CYRd+4yGTM+jDoWZBxC4rEjdXDG14HxQO4EH3AkqK+xgFrDD2OCw=="
+        length="59848779"
         type="application/octet-stream" />
     </item>
   </channel>
