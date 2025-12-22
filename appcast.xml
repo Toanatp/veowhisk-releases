@@ -3,20 +3,20 @@
   <channel>
     <title>VeoWhisk Updates 2.0.1</title>
     <link>https://github.com/Toanatp/veowhisk-releases</link>
-    <description>Nâng cấp tính năng render video nhanh hơn</description>
+    <description>Nâng cấp tính năng phân phối xử lý 1 file prompt cho nhiều profile trong cùng thời điểm</description>
 
     <item>
-      <title>Veo Whisk 2.0.1</title>
-      <pubDate>Sat, 20 Dec 2025 13:44:33 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/2.0.1</sparkle:releaseNotesLink>
+      <title>Veo Whisk 2.0.2</title>
+      <pubDate>Mon, 22 Dec 2025 07:26:12 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/2.0.2</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.1/veowwhisk_update.vwu"
-        sparkle:version="2.0.1"
-        sparkle:shortVersionString="2.0.1"
+        url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.2/veowwhisk_update.vwu"
+        sparkle:version="2.0.2"
+        sparkle:shortVersionString="2.0.2"
         sparkle:osBuild="80ccad5"
-        sparkle:sha256="49B2DD8EFE6AE2668F8997A16CEC77AB047DBEA5367F3638F18BEE8236835102"
-        sparkle:edSignature="6Gov8wkkGvEpwBGUASF8SdOEUm4oU8XJebbjHZfeihvxzYiqY72mZ6aSBl6+nuvLxlLCeu/eaRJ7U316xeB2DQ=="
-        length="47039152"
+        sparkle:sha256="2BBF86F3767C7B791B89FD1F34F242E9BE9D9974D3B5CC81E569A46680062F0E"
+        sparkle:edSignature="aDmnR7TuoVX9CK1NV54N4+qAfCZI0EX2dFWKUKK/Hr88KvgZadihEmwHLoHCF+SIXa0z8bULw5Onnwjmshp7Dg=="
+        length="47160818"
         type="application/octet-stream" />
     </item>
   </channel>
