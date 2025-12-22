@@ -7,16 +7,16 @@
 
     <item>
       <title>Veo Whisk 2.0.2</title>
-      <pubDate>Mon, 22 Dec 2025 07:26:12 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 07:38:48 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/2.0.2</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.2/veowwhisk_update.vwu"
         sparkle:version="2.0.2"
         sparkle:shortVersionString="2.0.2"
         sparkle:osBuild="80ccad5"
-        sparkle:sha256="2BBF86F3767C7B791B89FD1F34F242E9BE9D9974D3B5CC81E569A46680062F0E"
-        sparkle:edSignature="aDmnR7TuoVX9CK1NV54N4+qAfCZI0EX2dFWKUKK/Hr88KvgZadihEmwHLoHCF+SIXa0z8bULw5Onnwjmshp7Dg=="
-        length="47160818"
+        sparkle:sha256="AF2B4DE76EB1634AE347589A937C77B4A3F2851583DAB361E2479054C1771E81"
+        sparkle:edSignature="fBof8HKi5xCwq8vVxKhLOL6Bc/KLPoqGYN32yofek/ufSvk1wzcS7dHmYKyQTlxtjl6uR8uTHnxz3ZE9b/FiCQ=="
+        length="47161032"
         type="application/octet-stream" />
     </item>
   </channel>
