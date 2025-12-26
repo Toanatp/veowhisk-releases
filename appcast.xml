@@ -13,7 +13,7 @@
         url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.4/veowwhisk_update.vwu"
         sparkle:version="2.0.4"
         sparkle:shortVersionString="2.0.4"
-        sparkle:osBuild="102014"
+        sparkle:osBuild="102012"
         sparkle:sha256="AEE8A352635D6C256158D9B89BD0B042D122F5DF8C049791618419EE11B03EA8"
         sparkle:edSignature="bZmGAmZEOrafUd7WbeX1Jxh0gmPPqW9uP4WfQ5j6DCJwt2wwTenV3PJmjAYY5DxNdCSky03JrkvonaqbjnpGCg=="
         length="48885890"
