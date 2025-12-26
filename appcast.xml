@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>VeoWhisk Updates 2.0.2</title>
+    <title>VeoWhisk Updates 2.0.4</title>
     <link>https://github.com/Toanatp/veowhisk-releases</link>
-    <description>Nâng cấp tính năng phân phối xử lý 1 file prompt cho nhiều profile trong cùng thời điểm</description>
+    <description>Sử dụng nhiều profile GPM hoặc gemlogin xử lý cho cùng 1 file prompt</description>
 
     <item>
-      <title>Veo Whisk 2.0.2</title>
-      <pubDate>Mon, 22 Dec 2025 08:16:06 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/2.0.2</sparkle:releaseNotesLink>
+      <title>Veo Whisk 2.0.4</title>
+      <pubDate>Fri, 26 Dec 2025 04:21:20 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/veowhisk-releases/releases/tag/2.0.4</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.2/veowwhisk_update.vwu"
-        sparkle:version="2.0.2"
-        sparkle:shortVersionString="2.0.2"
-        sparkle:osBuild="102011"
-        sparkle:sha256="87850830746764B00BA30393A650697F1AC13FDB55E674F64E885AE9928B8641"
-        sparkle:edSignature="qs3ForTV72xdd8aT/h/AigPdHQ/EyW6GGP5TzLBYVI9RS5fU1tdcnWjhvW39MjhVe37n1e5IIWrd0FiR8fZMBg=="
-        length="48466533"
+        url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.4/veowwhisk_update.vwu"
+        sparkle:version="2.0.4"
+        sparkle:shortVersionString="2.0.4"
+        sparkle:osBuild="102014"
+        sparkle:sha256="AEE8A352635D6C256158D9B89BD0B042D122F5DF8C049791618419EE11B03EA8"
+        sparkle:edSignature="bZmGAmZEOrafUd7WbeX1Jxh0gmPPqW9uP4WfQ5j6DCJwt2wwTenV3PJmjAYY5DxNdCSky03JrkvonaqbjnpGCg=="
+        length="48885890"
         type="application/octet-stream" />
     </item>
   </channel>
