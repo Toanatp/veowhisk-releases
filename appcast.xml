@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>VeoWhisk Updates 2.0.1</title>
+    <title>VeoWhisk Updates 2.0.2</title>
     <link>https://github.com/Toanatp/veowhisk-releases</link>
     <description>Nâng cấp tính năng phân phối xử lý 1 file prompt cho nhiều profile trong cùng thời điểm</description>
 
@@ -13,7 +13,7 @@
         url="https://github.com/Toanatp/veowhisk-releases/releases/download/2.0.2/veowwhisk_update.vwu"
         sparkle:version="2.0.2"
         sparkle:shortVersionString="2.0.2"
-        sparkle:osBuild="80ccad5"
+        sparkle:osBuild="102011"
         sparkle:sha256="87850830746764B00BA30393A650697F1AC13FDB55E674F64E885AE9928B8641"
         sparkle:edSignature="qs3ForTV72xdd8aT/h/AigPdHQ/EyW6GGP5TzLBYVI9RS5fU1tdcnWjhvW39MjhVe37n1e5IIWrd0FiR8fZMBg=="
         length="48466533"
